@@ -1,4 +1,4 @@
-# User-Termination-Automation-with-Powershell
+# User Termination Automation with Powershell
 ![image](https://user-images.githubusercontent.com/91026684/134979337-d39be9f7-b492-4b27-b40d-50627cf2bbee.png)
 
 I made this Powershell script in order to automate and standardize how you manage the termination of an employee/user.
